@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_face": "Monospace",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		72,
+		79,
+		100
+	],
+	"tab_size": 4,
+	"trailing_spaces_modified_lines_only": true,
+	"trailing_spaces_trim_on_save": true,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"word_wrap": true
+}
